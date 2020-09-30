@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/seaech"
+        android:title="@string/search"
+    android:icon="@drawable/ic_baseline_search"
+    >
+
+</item>
+    <item
+    android:id="@+id/pay"
+    android:icon="@drawable/ic_baseline_payment_24"
+    android:title="@string/pay">
+
+</item>
+<item
+    android:id="@+id/info"
+    android:icon="@drawable/ic_baseline_info_24"
+    android:title="@string/info">
+
+</item>
+
+
+
+</menu>
